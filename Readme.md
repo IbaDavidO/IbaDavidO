@@ -1,3 +1,3 @@
 # Readme
 
-How to install this App.
+How to install this App!
